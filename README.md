@@ -62,12 +62,4 @@ Should create a tree structure like:
 3. Implement a search operation
 4. Add deletion functionality
 5. Include performance analysis of your implementation
-
-## Time Allocation
-
-| Task | Time |
-|:-----|:-----|
-| Basic Implementation | 20-30 minutes |
-| With All Tests | 30-40 minutes |
-| With Bonus Features | 40-60 minutes |
 ---
