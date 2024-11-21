@@ -1,0 +1,7 @@
+[package]
+name = "binary-search-tree"
+version = "0.1.0"
+edition = "2021"
+description = "A Binary Search Tree implementation in Rust"
+
+[dependencies]
