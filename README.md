@@ -47,6 +47,14 @@ Should create a tree structure like:
   3   7
 ```
 
+## Test Cases to Consider
+
+1. Inserting into an empty tree
+2. Inserting values that go to the left child
+3. Inserting values that go to the right child
+4. Inserting multiple values to create a multi-level tree
+5. Handling duplicate values (document your approach)
+
 ## Bonus Points (Optional Extensions)
 
 1. Implement a method to print the tree structure
